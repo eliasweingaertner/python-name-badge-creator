@@ -11,8 +11,8 @@ import io
 
 def generateSVGBadge(firstname, function, svgTemplate):
     
-    result = svgTemplate.replace("#VORNAME#",firstname)
-    result = result.replace("#FUNKTION#", function)
+    result = svgTemplate.replace(config["marker_FIRSTNAME"],firstname)
+    result = result.replace(config["marker_FUNCTION"], function)
     
     return result
 
@@ -58,8 +58,8 @@ sheet = wb[config["xlsx_sheetname"]]
 badgeNr = 0
 for row in range(config["row_OFFSET"],config["row_LASTROW"]+1):
     
-    firstNameCell = config["row_FIRSTNAME"]+str(row)
-    functionCell = config["row_FUNCTION"]+str(row)
+    firstNameCell = config["column_FIRSTNAME"]+str(row)
+    functionCell = config["column_FUNCTION"]+str(row)
     firstname = unicode(sheet[firstNameCell].value)
     function = unicode(sheet[functionCell].value)
     
