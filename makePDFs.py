@@ -1,6 +1,11 @@
 import os
 import subprocess
 
+############################
+# this file simply runs all SVGs through Inkscape for converting them to PDF
+############################
+
+
 #get config
 if __name__ == "__main__":
     config = {}
