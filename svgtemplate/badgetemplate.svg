@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="329.52756"
+   height="209.05511"
+   id="svg5642"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="badgetemplate.svg">
+  <defs
+     id="defs5644" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3771412"
+     inkscape:cx="74.765658"
+     inkscape:cy="103.35836"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5647">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2948.0302)">
+    <image
+       sodipodi:absref="/home/elias/Documents/pfadistuff/ja2015/badges/svgtemplate/../background/back1_resized.png"
+       xlink:href="../background/back1_resized.png"
+       width="329.52756"
+       height="209.01077"
+       id="image5734"
+       x="0"
+       y="2948.0745" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#622d89;fill-opacity:1;stroke:none;font-family:Sans"
+       x="165.672"
+       y="3061.5925"
+       id="text5737"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5739"
+         x="165.672"
+         y="3061.5925"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#622d89;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">#VORNAME#</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8729"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,2948.0302)"><flowRegion
+         id="flowRegion8731"><rect
+           id="rect8733"
+           width="153.54578"
+           height="41.22599"
+           x="84.976021"
+           y="130.38919" /></flowRegion><flowPara
+         id="flowPara8735">ss</flowPara></flowRoot>    <path
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.293328,3105.8666 c 81.816922,2.7616 168.030842,16.5726 246.935262,42.9086"
+       id="path8741"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text8743"
+       sodipodi:linespacing="125%"
+       x="81.499889"
+       y="144.51197">#FUNKTION#</text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#445016;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Droid Sans Bold"
+       id="text8750"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path8741"
+         id="textPath8754"><tspan
+   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#445016;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan8752">#FUNKTION#</tspan></textPath></text>
+  </g>
+</svg>

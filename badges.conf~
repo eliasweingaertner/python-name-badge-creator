@@ -1,0 +1,18 @@
+# This configuration file defines the config of our beautiful badge maker
+# 2014-10 by elias.weingaertner 
+
+people_xslx = "./xlsx/teilnehmer.xlsx"
+template_file="./svgtemplate/badgetemplate.svg"
+
+svg_outputdir = "./outputsvg"
+pdf_output = "./outputpdf"
+
+
+xlsx_sheetname = "TN"
+
+row_FIRSTNAME = "B"
+row_FUNCTION = "I"
+
+row_OFFSET = 7
+row_LASTROW = 42
+
