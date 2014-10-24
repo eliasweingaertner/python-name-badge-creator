@@ -1,7 +1,7 @@
 python-name-badge-creator
 =========================
 
-A simple set of python scripts for creating name tags based on a SVG template and a XSLX spreadsheet.
+A simple set of python scripts for creating name tags based on a SVG template and a Excel (XLSX) spreadsheet.
 In fact, this is pretty much a hack once created for a larger meeting of German Scout Association of Saint George (DPSG). Hence, the functionality is limited, and there are still some awkward German strings around.
 
 For using this stuff, you'll need to do the following:
